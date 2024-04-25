@@ -1,0 +1,4 @@
+langchain-google-genai 
+langchain
+pdf2image
+django
